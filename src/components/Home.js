@@ -10,6 +10,7 @@ export default class Home extends Component {
         <h5 className="pb-2"> Toronto - New York </h5>
         <ul> 
           <li> I currently work for Brigit in NYC </li>
+          <li> Experienced fullstack developer. </li>
           <li> Previously at Shopify, where I worked on the Draft Orders API, Shipping, and a bunch of other cool stuff</li>
           <li> Freelancer </li>
           <li> Interested in the fusion of music, fashion, design, and technology </li>
