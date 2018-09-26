@@ -11,7 +11,7 @@ import Contact from './components/Contact';
 class App extends Component {
   render() {
     return (
-      <div className="background" style={{backgroundImage: "url('mark-tegethoff-423746-beach-bw.jpg')"}}>
+      <div className="background" style={{backgroundImage: "url('waves-5.gif')"}}>
         <Router>
           <div>
             <Navbar />
